@@ -49,12 +49,10 @@ a {
   color: white;
 }
 
-/* [class*="col-"] {
-  float: left;
-  width: 100%;
-  padding: 13px;
+ [class*="col-"] {
+  color: white;
 }
-
+/*
 @media only screen and (min-width: 768px) {
     /* For desktop: */
     /* .col-1 {width: 8.33%;}
